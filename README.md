@@ -4,7 +4,7 @@
 
 - 시험기간에 너무 심심해서 만든 요리 시도 로그
 
-- 승우아빠는 신이다. 모든 요리는 아래의 [맛 공식]((https://www.youtube.com/watch?v=7vElbq6wmW4))을 참고한다.
+- 승우아빠는 신이다. 모든 요리는 아래의 [맛 공식](https://www.youtube.com/watch?v=7vElbq6wmW4)을 참고한다.
 
   <img src="./승우아빠_맛공식.png" alt="맛공식" style="zoom:80%;" />
 
