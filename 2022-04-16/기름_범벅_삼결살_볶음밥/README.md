@@ -39,7 +39,7 @@
 
 <center><img src="./최종_사진.jpg" alt="최종_사진" width="50%" height="50%" /></center>
 
-<center><img src="./디코.jpg" alt="디코" width="50%" height="50%" /></center>
+<center><img src="./디코.jpg" alt="디코" width="30%" height="30%" /></center>
 
 - 동아리 디코에서 훈수 받으면서 만들었는데 재밌었음
 
